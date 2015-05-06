@@ -1,0 +1,5 @@
+package 'postgresql'
+package 'ntp'
+package 'build-essential'
+package 'tree'
+package 'cowsay'
